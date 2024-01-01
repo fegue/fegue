@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🌱 I am an ecologist by training, now working mostly in tech.
+
+🐦 At BirdNET, I am helping to shape how AI is used in applied conservation.
+For more information, visit birdnet.cornell.edu/
+
+🎤 At OekoFor GbR (Freiburg, Germany), I am building autonomous edge devices for ecological monitoring in the field.
+Please visit us at oekofor.de
+
+Mostly R and Python.
+
 <!--
 **fegue/fegue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
